@@ -1,5 +1,5 @@
-# Comparison-of-Several-Models-and-Feature-Selection-Method-on-SOC-Content-
-This Repository compared which models and feature selection combination is best to use on SOC content prediction using Environmental Covariate.
+# Comparison of Several Models and Feature Selection Method on SOC Content Prediction using Enviromental Covariate
+This Project compared which models and feature selection combination is best to use on SOC content prediction using Environmental Covariate.
 
 Models that has been used on this are:
 Random Forest Regressor (RFR); Support Vector Regressor (SVR); and KNN-Regressor (KNN-R).
@@ -19,3 +19,7 @@ https://github.com/ilmirmdh
 
 Email for more information:
 albakkartaufik@gmail.com
+
+References:
+Datta, D., Paul, M., Murshed, M., Teng, S. W., & Schmidtke, L. (2022). Soil Moisture, Organic Carbon, and Nitrogen Content Prediction with Hyperspectral Data Using Regression Models. Sensors (Basel, Switzerland), 22(20). https://doi.org/10.3390/s22207998
+Effrosynidis, D., & Arampatzis, A. (2021). An evaluation of feature selection methods for environmental data. Ecological Informatics, 61. https://doi.org/10.1016/j.ecoinf.2021.101224
