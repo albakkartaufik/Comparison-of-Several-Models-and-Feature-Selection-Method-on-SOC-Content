@@ -22,4 +22,5 @@ albakkartaufik@gmail.com
 
 ## References:
 Datta, D., Paul, M., Murshed, M., Teng, S. W., & Schmidtke, L. (2022). Soil Moisture, Organic Carbon, and Nitrogen Content Prediction with Hyperspectral Data Using Regression Models. Sensors (Basel, Switzerland), 22(20). https://doi.org/10.3390/s22207998
+
 Effrosynidis, D., & Arampatzis, A. (2021). An evaluation of feature selection methods for environmental data. Ecological Informatics, 61. https://doi.org/10.1016/j.ecoinf.2021.101224
